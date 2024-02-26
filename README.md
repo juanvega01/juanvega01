@@ -1,5 +1,6 @@
-### Ingeniero en Sistemas recién egresado con experiencia en desarrollo web y programación orientada a objetos. He adquirido una sólida formación en programación durante mis estudios, con enfoque en el desarrollo web. Comprometido con el aprendizaje continuo y el crecimiento profesional.
-
+### 
+<p>Ingeniero en Sistemas recién egresado con experiencia en desarrollo web y programación orientada a objetos. He adquirido una sólida formación en programación durante mis estudios, con enfoque en el desarrollo web. Comprometido con el aprendizaje continuo y el crecimiento profesional.
+</p>
 <!--
 **juanvega01/juanvega01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
