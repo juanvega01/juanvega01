@@ -3,7 +3,7 @@
 </p>
 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/juanvega01/juanvega01/blob/output/github-contribution-grid-snake.svg)
 
 
 
